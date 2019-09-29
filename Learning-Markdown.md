@@ -6,3 +6,5 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
 Markdown syntax was developed by John Gruber and released in 2004. Gruber had grown tired of the effort involved in producing well-formed HTML and set out to create a syntax and conversion tool that simplified the process.
 
 Markdown is has alot of features look at the image below
+
+![](https://i.pinimg.com/originals/33/19/81/3319813c4fd34c1e5d8663ea3a632329.jpg)
